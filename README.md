@@ -1,9 +1,6 @@
 **[NeurIPS 2025]** CymbaDiff: Structured Spatial Diffusion for Sketch-based 3D Semantic Urban Scene Generation
 
 ## Dataset
-The SketchSem3D dataset used in this work can be downloaded from the link below:
-
-## Download Dataset
 You can use [this link](https://drive.google.com/drive/folders/18Ve_ZzbtaEWB-FMQYMsz8_FMCkWU9kLd?usp=drive_link) to download the dataset.
 
 ## Code Availability
